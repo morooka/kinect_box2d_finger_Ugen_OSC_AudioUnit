@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-               BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
+               BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnit.app"
                BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
                ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
+            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnit.app"
             BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
             ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
+            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnit.app"
             BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
             ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
-            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
+            BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnit.app"
             BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
             ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>

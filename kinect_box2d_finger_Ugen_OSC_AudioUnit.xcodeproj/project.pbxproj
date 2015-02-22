@@ -399,7 +399,7 @@
 		E45CE82619D6F6C400ACAA43 /* ofxFingerDetector.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxFingerDetector.cpp; sourceTree = "<group>"; };
 		E45CE82719D6F6C400ACAA43 /* ofxFingerDetector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxFingerDetector.h; sourceTree = "<group>"; };
 		E45CE82819D6F6C400ACAA43 /* rotateSinewave.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rotateSinewave.h; sourceTree = "<group>"; };
-		E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUniteDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kinect_box2d_finger_Ugen_OSC_AudioUniteDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUnit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = kinect_box2d_finger_Ugen_OSC_AudioUnit.app; path = /Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/apps/git/kinect_box2d_finger_Ugen_OSC_AudioUnit/kinect_box2d_finger_Ugen_OSC_AudioUnit/bin/kinect_box2d_finger_Ugen_OSC_AudioUnit.app; sourceTree = "<absolute>"; };
 		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofApp.cpp; path = src/ofApp.cpp; sourceTree = SOURCE_ROOT; };
 		E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofApp.h; path = src/ofApp.h; sourceTree = SOURCE_ROOT; };
@@ -1220,7 +1220,6 @@
 				E4EEC9E9138DF44700A80321 /* openFrameworks */,
 				BB4B014C10F69532006C3DED /* addons */,
 				E45BE5980E8CC70C009D7055 /* frameworks */,
-				E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUniteDebug.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -2484,7 +2483,7 @@
 			);
 			name = kinect_box2d_finger_Ugen_OSC_AudioUnit;
 			productName = myOFApp;
-			productReference = E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUniteDebug.app */;
+			productReference = E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUnit.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

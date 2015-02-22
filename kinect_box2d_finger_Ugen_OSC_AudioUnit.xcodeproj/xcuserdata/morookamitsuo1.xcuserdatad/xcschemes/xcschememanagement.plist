@@ -9,16 +9,6 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>kinect_box2d_finger_Ugen_OSC_AudioUnite.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>kinect_box2d_finger_Ugen_OSC_AudioUnite_debug.xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
