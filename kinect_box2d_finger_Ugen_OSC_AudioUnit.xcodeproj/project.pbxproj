@@ -2468,9 +2468,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E4B69B5A0A3A1756003C02F2 /* kinect_box2d_finger_Ugen_OSC_AudioUnite */ = {
+		E4B69B5A0A3A1756003C02F2 /* kinect_box2d_finger_Ugen_OSC_AudioUnit */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "kinect_box2d_finger_Ugen_OSC_AudioUnite" */;
+			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "kinect_box2d_finger_Ugen_OSC_AudioUnit" */;
 			buildPhases = (
 				E4B69B580A3A1756003C02F2 /* Sources */,
 				E4B69B590A3A1756003C02F2 /* Frameworks */,
@@ -2482,7 +2482,7 @@
 			dependencies = (
 				E4EEB9AC138B136A00A80321 /* PBXTargetDependency */,
 			);
-			name = kinect_box2d_finger_Ugen_OSC_AudioUnite;
+			name = kinect_box2d_finger_Ugen_OSC_AudioUnit;
 			productName = myOFApp;
 			productReference = E48A6B1B1A90AEB200F863FE /* kinect_box2d_finger_Ugen_OSC_AudioUniteDebug.app */;
 			productType = "com.apple.product-type.application";
@@ -2495,7 +2495,7 @@
 			attributes = {
 				LastUpgradeCheck = 0610;
 			};
-			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "kinect_box2d_finger_Ugen_OSC_AudioUnite" */;
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "kinect_box2d_finger_Ugen_OSC_AudioUnit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -2516,7 +2516,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				E4B69B5A0A3A1756003C02F2 /* kinect_box2d_finger_Ugen_OSC_AudioUnite */,
+				E4B69B5A0A3A1756003C02F2 /* kinect_box2d_finger_Ugen_OSC_AudioUnit */,
 			);
 		};
 /* End PBXProject section */
@@ -2965,7 +2965,7 @@
 					/Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxOpenCv/libs/opencv/lib/osx,
 					"/Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxKinect/libs/libusb-1.0/lib/osx",
 				);
-				PRODUCT_NAME = kinect_box2d_finger_Ugen_OSC_AudioUniteDebug;
+				PRODUCT_NAME = kinect_box2d_finger_Ugen_OSC_AudioUnitDebug;
 				USER_HEADER_SEARCH_PATHS = "../../../addons/ofxKinect/libs/libusb-1.0/include/ /Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxBox2d/libs ../../../addons/ofxOpenCv/libs/opencv/include/ ../../../addons/ofxKinect/libs/libfreenect/include/ ../../../addons/ofxKinect/libs/libusb-win32/include/ ../../../addons/ofxOsc/libs/oscpack/src/";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3056,7 +3056,7 @@
 					/Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxOpenCv/libs/opencv/lib/osx,
 					"/Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxKinect/libs/libusb-1.0/lib/osx",
 				);
-				PRODUCT_NAME = kinect_box2d_finger_Ugen_OSC_AudioUnite;
+				PRODUCT_NAME = kinect_box2d_finger_Ugen_OSC_AudioUnit;
 				USER_HEADER_SEARCH_PATHS = "../../../addons/ofxKinect/libs/libusb-1.0/include/ /Users/morookamitsuo1/Desktop/oF/of_v0.8.4_osx_release/addons/ofxBox2d/libs ../../../addons/ofxOpenCv/libs/opencv/include/ ../../../addons/ofxKinect/libs/libfreenect/include/ ../../../addons/ofxKinect/libs/libusb-win32/include/ ../../../addons/ofxOsc/libs/oscpack/src/";
 				WRAPPER_EXTENSION = app;
 			};
@@ -3065,7 +3065,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "kinect_box2d_finger_Ugen_OSC_AudioUnite" */ = {
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "kinect_box2d_finger_Ugen_OSC_AudioUnit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4B69B4E0A3A1720003C02F2 /* Debug */,
@@ -3074,7 +3074,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "kinect_box2d_finger_Ugen_OSC_AudioUnite" */ = {
+		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "kinect_box2d_finger_Ugen_OSC_AudioUnit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4B69B600A3A1757003C02F2 /* Debug */,

@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
                BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
-               BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnite"
-               ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnite.xcodeproj">
+               BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
+               ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,7 +26,7 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Release">
+      buildConfiguration = "Debug">
       <Testables>
       </Testables>
       <MacroExpansion>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
             BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
-            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnite"
-            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnite.xcodeproj">
+            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
+            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -44,7 +44,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
+      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
             BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
-            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnite"
-            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnite.xcodeproj">
+            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
+            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,13 +71,13 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4B69B5A0A3A1756003C02F2"
             BuildableName = "kinect_box2d_finger_Ugen_OSC_AudioUnite.app"
-            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnite"
-            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnite.xcodeproj">
+            BlueprintName = "kinect_box2d_finger_Ugen_OSC_AudioUnit"
+            ReferencedContainer = "container:kinect_box2d_finger_Ugen_OSC_AudioUnit.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
-      buildConfiguration = "Release">
+      buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
